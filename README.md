@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @M4RK5HCH
+- 👀 I’m interested in coding with lua
+- 🌱 I’m currently learning how to code with lua
+- 💞️ I’m looking to collaborate on creating in roblox studio
+- 📫 How to reach me: My discord-M4RK5HCH#6748
